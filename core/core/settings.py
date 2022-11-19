@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     #MyApps
     'tasks',
     'authentication',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
