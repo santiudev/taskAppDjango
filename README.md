@@ -1,8 +1,10 @@
 # Task App
 _This is a task application with a CRUD. It has integrated user authentication_
-##Built with🛠️
+## Built with🛠️
 * [Django](https://www.djangoproject.com/)
 * [DjangoRestFramework](https://www.django-rest-framework.org/)
+![image](https://user-images.githubusercontent.com/106711093/205669818-5073e9ce-74ef-4cd7-ac3c-ec90dfd6f1e2.png)
+
 
 ## Instructions📋:
 _How to get a copy of the project running on your local machine_
